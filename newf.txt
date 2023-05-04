@@ -1,2 +1,3 @@
 hello 
 this is new feature file
+checking git pull and push
